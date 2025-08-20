@@ -41,54 +41,9 @@
 
 ---
 
-## 🌟 Featured Projects
-<table>
-<tr>
-<td align="center">
-  <a href="https://github.com/yourusername/image-classification">
-    <img src="https://img.icons8.com/external-flat-juicy-fish/64/000000/external-brain-artificial-intelligence-flat-flat-juicy-fish.png" width="60"/>
-    <br />
-    <b>Image Classification</b>
-  </a>
-  <p>CNN-based classifier with TensorFlow/Keras</p>
-</td>
-<td align="center">
-  <a href="https://github.com/yourusername/nlp-chatbot">
-    <img src="https://img.icons8.com/external-flat-juicy-fish/64/000000/external-chatbot-artificial-intelligence-flat-flat-juicy-fish.png" width="60"/>
-    <br />
-    <b>NLP Chatbot</b>
-  </a>
-  <p>Transformer-based conversational AI</p>
-</td>
-<td align="center">
-  <a href="https://github.com/yourusername/wheat-disease">
-    <img src="https://img.icons8.com/color/96/000000/wheat.png" width="60"/>
-    <br />
-    <b>Wheat Disease Detection</b>
-  </a>
-  <p>ML model to detect crop diseases</p>
-</td>
-</tr>
-</table>
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
----
-
 ## ⚡ Fun Facts
 - 🤖 Love building **AI-powered apps** that solve real-world problems  
 - 📘 Writing tutorials about **ML & AI concepts**  
-- 🎮 Enjoy **CTFs, chess, and solving puzzles**  
 
 ---
 
