@@ -35,8 +35,7 @@
 
 ## 🛠️ Skills & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,scikitlearn,jupyter,colab,kaggle,opencv,html,css,mysql,postgresql,git,github,linux,aws,docker&theme=dark" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,scikitlearn,opencv,html,css,mysql,postgresql,git,github,linux,aws,docker&theme=dark" />
 </p>
 
 
