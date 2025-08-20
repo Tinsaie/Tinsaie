@@ -9,7 +9,7 @@
 
 ## 🌍 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/linkedin.com/in/tinsae-bahiru-60569a379" target="_blank">
+  <a href="https://linkedin.com/in/tinsae-bahiru-60569a379" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://twitter.com/@tinsaie_b" target="_blank">
