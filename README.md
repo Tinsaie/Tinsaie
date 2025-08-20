@@ -35,7 +35,7 @@
 
 ## 🛠️ Skills & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,scikitlearn,opencv,html,css,mysql,postgresql,git,github,linux,aws,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,scikitlearn,opencv,html,css,github,linux,aws,docker&theme=dark" />
 </p>
 
 
