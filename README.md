@@ -1,6 +1,6 @@
 <!-- Cool Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20👋%2C%20I'm%20Tinsaie&fontSize=40&fontAlignY=35&animation=fadeIn" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20👋%2C%20I'm%20Tinsae&fontSize=40&fontAlignY=35&animation=fadeIn" alt="header"/>
 </p>
 
 <h3 align="center">⚡ Machine Learning | Data Scientist | AI ⚡</h3>
