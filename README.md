@@ -3,13 +3,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20👋%2C%20I'm%20Tinsaie&fontSize=40&fontAlignY=35&animation=fadeIn" alt="header"/>
 </p>
 
-<h3 align="center">⚡ Machine Learning Specialist | Data Scientist | AI Enthusiast ⚡</h3>
+<h3 align="center">⚡ Machine Learning | Data Scientist | AI ⚡</h3>
 
 ---
 
 ## 🌍 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/linkedin.com/in/tinsae-bahiru-60569a379/" target="_blank">
+  <a href="https://www.linkedin.com/in/linkedin.com/in/tinsae-bahiru-60569a379" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://twitter.com/@tinsaie_b" target="_blank">
