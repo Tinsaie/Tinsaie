@@ -1,4 +1,3 @@
-cat > /mnt/user-data/outputs/README.md << 'ENDOFFILE'
 <div align="center">
 
 <!-- CINEMATIC HEADER -->
