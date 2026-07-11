@@ -1,6 +1,6 @@
 <!--
   GitHub Profile README for Tinsae Bahiru
-  Repository name must be exactly: TinsaeBahiru
+  Repository name must be exactly: Tinsaie
 -->
 
 <div align="center">
@@ -16,13 +16,13 @@
 
 <img align="right" alt="Developer coding" width="310" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" />
 
-💡 I’m **Tinsae Bahiru**, an **AI/ML Engineer and Full-Stack Developer**.  
-🛠️ I’m currently building intelligent systems with **Python, FastAPI, Next.js and machine learning**.  
+💡 I'm **Tinsae Bahiru**, an **AI/ML Engineer and Full-Stack Developer**.  
+🛠️ I'm currently building intelligent systems with **Python, FastAPI, Next.js and machine learning**.  
 🧠 I work on **computer vision, NLP, OCR, fraud detection and cybersecurity ML**.  
-🌱 I’m currently improving my skills in **LLMs, RAG, MLOps and scalable AI systems**.  
+🌱 I'm currently improving my skills in **LLMs, RAG, MLOps and scalable AI systems**.  
 💬 Ask me about **Python, Machine Learning, Deep Learning, FastAPI, React and Next.js**.  
 📫 You can contact me at **[tinsaiebbs@gmail.com](mailto:tinsaiebbs@gmail.com)**.  
-🤝 I’m open to collaborating on **AI, full-stack and open-source projects**.  
+🤝 I'm open to collaborating on **AI, full-stack and open-source projects**.  
 ⚡ Fun fact: I enjoy turning difficult real-world problems into practical software.
 
 <br clear="both" />
@@ -32,15 +32,15 @@
 <div align="center">
   <img
     width="100%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=TinsaeBahiru&bg_color=0d1117&color=39d353&line=00b35a&point=39d353&area=true&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Tinsaie&bg_color=0d1117&color=39d353&line=00b35a&point=39d353&area=true&hide_border=true"
     alt="Tinsae Bahiru contribution graph"
   />
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TinsaeBahiru/TinsaeBahiru/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TinsaeBahiru/TinsaeBahiru/output/github-snake.svg" />
-  <img width="100%" alt="GitHub contribution snake" src="https://raw.githubusercontent.com/TinsaeBahiru/TinsaeBahiru/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tinsaie/Tinsaie/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tinsaie/Tinsaie/output/github-snake.svg" />
+  <img width="100%" alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Tinsaie/Tinsaie/output/github-snake.svg" />
 </picture>
 
 ---
@@ -52,7 +52,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" height="42" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="https://github.com/TinsaeBahiru" target="_blank">
+  <a href="https://github.com/Tinsaie" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" height="42" alt="GitHub" />
   </a>
   &nbsp;
