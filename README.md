@@ -74,3 +74,14 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn,postgres,mysql,mongodb,redis,docker,git,github,linux,aws,postman,vscode&theme=dark&perline=15" alt="AI, data and development tools" />
 </p>
+
+---
+
+## 📈 GitHub Streak:
+
+<div align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Tinsaie&theme=tokyonight&hide_border=true"
+    alt="Tinsae Bahiru GitHub streak stats"
+  />
+</div>
