@@ -1,4 +1,4 @@
-<div align="center">
+[<div align="center">
 
 <!-- ===================== HEADER ===================== -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,25:0f172a,50:1e1b4b,75:312e81,100:c9a84c&height=280&section=header&text=TINSAE%20BAHIRU&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20INSA&descSize=18&descAlignY=62&descColor=c9a84c&animation=fadeIn" />
@@ -64,3 +64,4 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c9a84c,25:312e81,50:1e1b4b,75:0f172a,100:050505&height=140&section=footer&text=AI%20%2B%20Data%20%2B%20Engineering%20%3D%20Impact&fontSize=18&fontColor=ffffff&fontAlignY=70&animation=fadeIn" />
 
 </div>
+](https://github.com/)
