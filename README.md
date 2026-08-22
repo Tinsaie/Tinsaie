@@ -11,7 +11,6 @@
 </div>
 
 ---
-
 ## 💫 About Me
 <img align="right" alt="Developer coding" width="310" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" />
 💡 I'm **Tinsae Bahiru**, an **AI/ML Engineer and Full-Stack Developer**.
@@ -24,7 +23,6 @@
 ⚡ Fun fact: I enjoy turning difficult real-world problems into **practical software solutions**.
 <br clear="both" />
 <br />
-
 ---
 
 <picture>
