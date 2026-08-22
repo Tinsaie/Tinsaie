@@ -13,25 +13,15 @@
 ---
 
 ## 💫 About Me
-
 <img align="right" alt="Developer coding" width="310" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" />
-
 💡 I'm **Tinsae Bahiru**, an **AI/ML Engineer and Full-Stack Developer**.
-
 🛠️ I'm currently building intelligent systems using **Python, FastAPI, Next.js, and Machine Learning**.
-
 🧠 I work on **Computer Vision, NLP, OCR, Fraud Detection, and Cybersecurity ML**.
-
 🌱 I'm currently improving my skills in **LLMs, RAG, MLOps, and scalable AI systems**.
-
 💬 Ask me about **Python, Machine Learning, Deep Learning, FastAPI, React, and Next.js**.
-
 📫 You can contact me at **[tinsaiebbs@gmail.com](mailto:tinsaiebbs@gmail.com)**.
-
 🤝 I'm open to collaborating on **AI, Full-Stack, and Open-Source projects**.
-
 ⚡ Fun fact: I enjoy turning difficult real-world problems into **practical software solutions**.
-
 <br clear="both" />
 <br />
 
